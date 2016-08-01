@@ -18,3 +18,5 @@ _temp
 !wallaby.js
 !gulpfile.js
 !/build/node_modules
+!/app/*.js
+!/app/*.js.map
